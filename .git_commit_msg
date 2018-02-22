@@ -1,0 +1,18 @@
+Ticket #<#> <Description>
+
+Type: <Type>
+
+<Commit Contents>
+<Why the change was made>
+
+Testing: <Testing>
+
+# --- COMMIT END ---
+# Type can be
+#    feature     (new feature)
+#    fix      (bug fix)
+#    refactor (refactoring code)
+#    style    (formatting, missing semi colons, etc; no code change)
+#    docs     (changes to documentation)
+#    test     (adding or refactoring tests; no production code change)
+#    chore    (updating grunt tasks etc; no production code change)
